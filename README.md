@@ -7,9 +7,9 @@ https://drive.google.com/file/d/1rc6WbpzbLaYahK4AloPmbsEH2u_OsrKC/view
 
 In this repository, there are three different perspective for the classification problem that given above:
 
-# - Multi Layer Perceptron (MLP)
+### - Multi Layer Perceptron (MLP)
 
-# - Convolutional Neural Network (CNN) 
+### - Convolutional Neural Network (CNN) 
 
-# - Transfer Learning
+### - Transfer Learning
 
