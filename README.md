@@ -5,7 +5,7 @@ In this question, you will perform multi-class classification on animals data se
 Download the dataset from the following link:
 https://drive.google.com/file/d/1rc6WbpzbLaYahK4AloPmbsEH2u_OsrKC/view
 
-In this repository, there are three different perspective for the classification problem that given above:
+In this repository, there are three different perspectives for the classification problem that given above:
 
 ### - Multi Layer Perceptron (MLP)
 
